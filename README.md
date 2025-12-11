@@ -7,12 +7,6 @@ The goal was to perform **data cleaning, exploratory data analysis (EDA), and vi
 
 ---
 
-## 🧰 Tools & Libraries Used  
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Jupyter Notebook** for analysis and visualizations    
-
----
-
 ## 🧮 Key Analysis Performed  
 - Cleaned and formatted raw sales data  
 - Analyzed **sales by restaurant type, cuisine, and location**  
@@ -21,22 +15,18 @@ The goal was to perform **data cleaning, exploratory data analysis (EDA), and vi
 - Visualized overall **sales growth and customer behavior patterns**
 
 ---
-
 ## 📊 Insights  
 - Restaurants with **high ratings** show consistently better sales performance  
 - **Fast food and North Indian cuisines** were among the top-selling categories  
 - **Evening time slots** recorded maximum orders and revenue  
-- Cities with higher restaurant density showed stronger customer engagement  
+- Cities with higher restaurant density showed stronger customer engagement
+
+- ## 🧰 Tools & Libraries Used  
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Jupyter Notebook** for analysis and visualizations    
 
 ---
 
-## 🎯 Outcome  
-✔ Improved understanding of sales and customer patterns  
-✔ Strengthened EDA and data visualization skills  
-✔ Gained business insights through real-world data analysis  
-
 
 ---
 
-## 🏷 Tags  
-`#Python` `#EDA` `#DataAnalytics` `#Zomato` `#SalesAnalysis`
